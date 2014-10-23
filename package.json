@@ -1,0 +1,38 @@
+{
+  "name": "grunt-prune-html",
+  "version": "0.1.0",
+  "description": "Grunt plugin for pruning HTML strings using prune-html.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bodylabs/grunt-prune-html"
+  },
+  "bugs": {
+    "url": "https://github.com/bodylabs/grunt-prune-html/issues"
+  },
+  "keywords": [
+    "gruntplugin",
+    "prune",
+    "clean",
+    "html",
+    "css",
+    "selector"
+  ],
+  "author": "Body Labs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bodylabs/grunt-prune-html/issues"
+  },
+  "homepage": "https://github.com/bodylabs/grunt-prune-html",
+  "dependencies": {
+    "prune-html": "~0.2.1"
+  },
+  "peerDependencies": {
+    "grunt": "~0.4.0"
+  },
+  "files": [
+    "tasks"
+  ]
+}
