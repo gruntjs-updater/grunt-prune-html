@@ -1,23 +1,3 @@
-// Usage example:
-//
-//    prune_html: {
-//        templates: {
-//            expand: true,
-//            src: 'app/**/*.html',
-//            dest: 'build/tmp/pruned_templates',
-//        },
-//        // filter is invoked with `this` as a cheerio object.
-//        // You can use cheerio attributes: http://cheeriojs.github.io/cheerio/#attributes
-//        options: {
-//            filter: function () { return this.attr('prune') !== undefined; },
-//        },
-//    },
-//
-// ...
-//
-// grunt.loadNpmTasks('grunt-prune-html');
-//
-
 (function () {
     'use strict';
 
