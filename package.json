@@ -21,7 +21,7 @@
     "selector"
   ],
   "author": "Body Labs",
-  "license": "MIT",
+  "license": "BSD",
   "bugs": {
     "url": "https://github.com/bodylabs/grunt-prune-html/issues"
   },
